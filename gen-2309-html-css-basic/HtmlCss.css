@@ -1,0 +1,49 @@
+/* Navbar styling */
+.navbar {
+    background-color: red; 
+    line-height: 3;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links li a {
+    color: rgba(241, 227, 227, 0.884);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+    color: #ff6600; 
+}
+
+
+body {
+    margin: 20px auto;
+    max-width: 960px; 
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.container {
+    padding: 20px;
+}
+
+
