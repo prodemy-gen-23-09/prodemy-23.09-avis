@@ -1,0 +1,7 @@
+.product-image {
+    max-width: 10%;
+    height: auto;
+    max-height: 10px; 
+    display: block;
+    margin: 0 auto;
+}
