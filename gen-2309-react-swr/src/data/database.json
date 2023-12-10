@@ -132,15 +132,5 @@
       "totalSales": 0,
       "releaseDate": 2023
     }
-  ],
-  "booking": [
-    {
-      "customerName": "icha",
-      "customerEmail": "icha@mail.com",
-      "customerCity": "Bandung",
-      "delivery": "regular",
-      "wrap": false,
-      "id": 1
-    }
   ]
 }
