@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhoneX",
+      "image": "/src/assets/images/iphonex.jpg",
+      "productType": "phones",
+      "price": 220,
+      "rating": 5,
+      "timeLeft": 27,
+      "totalSales": 7479,
+      "releaseDate": 2019,
+      "description": "With new features and capabilities that let you get more done quickly "
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone11",
+      "image": "/src/assets/images/iphone11.jpg",
+      "productType": "phones",
+      "price": 169,
+      "rating": 5,
+      "timeLeft": 24,
+      "totalSales": 6898,
+      "releaseDate": 2020,
+      "description": " When measured as a standard rectangular shape, the screen is 6.06 inches diagonally (actual viewable area is less)."
+    },
+    {
+      "id": 3,
+      "name": "iPhone15",
+      "image": "/src/assets/images/iphone15.jpg",
+      "productType": "phones",
+      "price": 175,
+      "rating": 4,
+      "timeLeft": 21,
+      "totalSales": 6347,
+      "releaseDate": 2023,
+      "description": "A17 Pro chip with 5nm technology for next-level performance and mobile gaming for your best experience as user"
+    },
+    {
+      "id": 4,
+      "name": "Huawei Mate 60 Pro",
+      "image": "/src/assets/images/mate60.jpg",
+      "productType": "phones",
+      "price": 170,
+      "rating": 4,
+      "timeLeft": 21,
+      "totalSales": 6347,
+      "releaseDate": 2023,
+      "description": " With an IP68 water and dust resistance rating, the phone can withstand submersion in 1.5m of water for 30 minutes "
+    },
+    {
+      "id": 5,
+      "name": "Oppo A54",
+      "image": "/src/assets/images/reno.jpg",
+      "productType": "phones",
+      "price": 215,
+      "rating": 5,
+      "timeLeft": 19,
+      "totalSales": 7715,
+      "releaseDate": 2019,
+      "description": "T These include a sharper"
+    },
+    {
+      "id": 6,
+      "name": "Redmi Note 10 pro",
+      "image": "/src/assets/images/redmii.png",
+      "productType": "phones",
+      "price": 126,
+      "rating": 5,
+      "timeLeft": 11,
+      "totalSales": 2300,
+      "releaseDate": 2021,
+      "description": " screen and a better primary camera. Battery life is very good, and performance is sound"
+    },
+    {
+      "id": 7,
+      "name": "Samsung A33",
+      "image": "/src/assets/images/a33.png",
+      "productType": "phones",
+      "price": 300,
+      "rating": 5,
+      "timeLeft": 11,
+      "totalSales": 2300,
+      "releaseDate": 2022,
+      "description": "The Oppo A54 5G is "
+    },
+    {
+      "id": 8,
+      "name": "Realme 7 Pro",
+      "image": "/src/assets/images/7pro.jpg",
+      "productType": "phones",
+      "price": 155,
+      "rating": 5,
+      "timeLeft": 11,
+      "totalSales": 2300,
+      "releaseDate": 2019,
+      "description": "The Oppo A54 5G is a no-nonsense,. These include a sharper screen and a better primary camera. Battery life is very good, and performance is sound"
+    },
+    {
+      "id": 9,
+      "name": "Realme 8 Pro",
+      "image": "/src/assets/images/8pro.jpg",
+      "productType": "phones",
+      "price": 190,
+      "rating": 5,
+      "timeLeft": 11,
+      "totalSales": 2300,
+      "releaseDate": 2017,
+      "description": "The Oppo A54 5G is a no-nonsense, "
+    },
+    {
+      "id": 10,
+      "name": "Redmi Note 10 pro",
+      "image": "/src/assets/images/redmii.png",
+      "productType": "phones",
+      "price": 220,
+      "rating": 5,
+      "timeLeft": 11,
+      "totalSales": 2300,
+      "releaseDate": 2020,
+      "description": "sound"
+    },
+    {
+      "id": "11",
+      "name": "Samsung S11 Pro",
+      "image": "https://www.sammobile.com/wp-content/uploads/2019/11/galaxy-s11-plus-leaked-renders-3.jpg",
+      "description": "Newly designed by Samsung",
+      "productType": "Psychic",
+      "price": 600,
+      "rating": 3,
+      "timeLeft": 0,
+      "totalSales": 0,
+      "releaseDate": 2023
+    }
+  ],
+  "booking": [
+    {
+      "customerName": "icha",
+      "customerEmail": "icha@mail.com",
+      "customerCity": "Bandung",
+      "delivery": "regular",
+      "wrap": false,
+      "id": 1
+    }
+  ]
+}
