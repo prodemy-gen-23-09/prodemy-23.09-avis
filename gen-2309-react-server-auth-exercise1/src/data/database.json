@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhoneX",
+      "image": "/src/assets/images/iphonex.jpg",
+      "productType": "phones",
+      "price": 220
+    },
+    {
+      "id": 3,
+      "name": "iPhone15",
+      "image": "/src/assets/images/iphone15.jpg",
+      "productType": "phones",
+      "price": 175
+    },
+    {
+      "id": 5,
+      "name": "Oppo A54",
+      "image": "/src/assets/images/reno.jpg",
+      "productType": "phones",
+      "price": 189
+    },
+    {
+      "id": "7",
+      "name": "Iphone 19",
+      "image": "https://www.epic.com.mt/wp-content/uploads/2023/09/iphone-15-Pro-Max.png",
+      "productType": "Apple",
+      "price": 215
+    },
+    {
+      "id": "12",
+      "name": "Iphone 14 ",
+      "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+      "productType": "Apple",
+      "price": 230
+    },
+    {
+      "id": "13",
+      "name": "Vivo V29E",
+      "image": "https://media.pricebook.co.id/article/6167cecfb42c2e6fc05b8d6c/6167cecfb42c2e6fc05b8d6c_1698823497.webp",
+      "productType": "Vivo",
+      "price": 221
+    }
+  ],
+  "booking": [
+    {
+      "customerName": "icha",
+      "customerEmail": "icha@mail.com",
+      "customerCity": "Bandung",
+      "delivery": "regular",
+      "wrap": false,
+      "id": 1
+    },
+    {
+      "userType": "user",
+      "name": "Mars",
+      "email": "Mars@gmail.com",
+      "city": "Jakarta",
+      "delivery": "regular",
+      "wrap": false,
+      "password": "jjjj",
+      "id": 1702577984415
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userType": "admin",
+      "name": "Venus",
+      "email": "venus@gmail.com",
+      "password": "hkkkk"
+    },
+    {
+      "userType": "admin",
+      "name": "Avicena Muzhaffar Adianshah",
+      "email": "Avic@gmail.com",
+      "password": "hhhh",
+      "id": 1702581561548
+    },
+    {
+      "name": "Mars",
+      "email": "Mars@gmail.com",
+      "password": "hhhh",
+      "id": 1702584461208
+    },
+    {
+      "userType": "user",
+      "name": "Caca",
+      "email": "caca@gmail.com",
+      "password": "hhhh",
+      "id": 1702608940345
+    },
+    {
+      "userType": "user",
+      "name": "Sami",
+      "email": "sami@gmail.com",
+      "password": "hhhh",
+      "id": 1702867763952
+    },
+    {
+      "userType": "user",
+      "name": "Sami",
+      "email": "sami@gmail.com",
+      "password": "hhhh",
+      "id": 1702868018409
+    }
+  ],
+  "wishlist": [
+    {
+      "products": [
+        {
+          "id": 5,
+          "name": "Oppo A54",
+          "image": "/src/assets/images/reno.jpg",
+          "productType": "phones",
+          "price": 189
+        }
+      ],
+      "total": 0,
+      "id": 1
+    }
+  ]
+}
