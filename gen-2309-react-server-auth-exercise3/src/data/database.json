@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhoneX",
+      "image": "/src/assets/images/iphonex.jpg",
+      "productType": "phones",
+      "price": 220
+    },
+    {
+      "id": 3,
+      "name": "iPhone15",
+      "image": "/src/assets/images/iphone15.jpg",
+      "productType": "phones",
+      "price": 175
+    },
+    {
+      "id": 5,
+      "name": "Oppo A54",
+      "image": "/src/assets/images/reno.jpg",
+      "productType": "phones",
+      "price": 189
+    },
+    {
+      "id": "7",
+      "name": "Iphone 19",
+      "image": "https://www.epic.com.mt/wp-content/uploads/2023/09/iphone-15-Pro-Max.png",
+      "productType": "Apple",
+      "price": 215
+    },
+    {
+      "id": "12",
+      "name": "Iphone 14 ",
+      "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+      "productType": "Apple",
+      "price": 230
+    },
+    {
+      "id": "13",
+      "name": "Vivo V29E",
+      "image": "https://media.pricebook.co.id/article/6167cecfb42c2e6fc05b8d6c/6167cecfb42c2e6fc05b8d6c_1698823497.webp",
+      "productType": "Vivo",
+      "price": 221
+    }
+  ],
+  "booking": [
+    {
+      "customerName": "Avicena Muzhaffar",
+      "customerEmail": "adianshahavis11@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "8783973",
+      "cvv": "1111111",
+      "products": [
+        {
+          "id": 1,
+          "name": "Apple iPhoneX",
+          "image": "/src/assets/images/iphonex.jpg",
+          "productType": "phones",
+          "price": 220
+        }
+      ],
+      "total": 220,
+      "id": 10
+    },
+    {
+      "customerName": "Jack",
+      "customerEmail": "Texeira@gmail.com",
+      "paymentOption": "Visa",
+      "creditNumber": "32432482",
+      "cvv": "1212",
+      "products": [
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        },
+        {
+          "id": "13",
+          "name": "Vivo V29E",
+          "image": "https://media.pricebook.co.id/article/6167cecfb42c2e6fc05b8d6c/6167cecfb42c2e6fc05b8d6c_1698823497.webp",
+          "productType": "Vivo",
+          "price": 221
+        },
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        },
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        }
+      ],
+      "total": 911,
+      "id": 12
+    },
+    {
+      "customerName": "Mars",
+      "customerEmail": "Mars@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "8989012981267",
+      "cvv": "1216",
+      "products": [
+        {
+          "id": 1,
+          "name": "Apple iPhoneX",
+          "image": "/src/assets/images/iphonex.jpg",
+          "productType": "phones",
+          "price": 220
+        },
+        {
+          "id": "13",
+          "name": "Vivo V29E",
+          "image": "https://media.pricebook.co.id/article/6167cecfb42c2e6fc05b8d6c/6167cecfb42c2e6fc05b8d6c_1698823497.webp",
+          "productType": "Vivo",
+          "price": 221
+        }
+      ],
+      "total": 441,
+      "id": 14
+    },
+    {
+      "customerName": "Avicena Muzhaffar Adianshah",
+      "customerEmail": "adianshahavis11@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "8989012981267",
+      "cvv": "3455",
+      "products": [
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        },
+        {
+          "id": "13",
+          "name": "Vivo V29E",
+          "image": "https://media.pricebook.co.id/article/6167cecfb42c2e6fc05b8d6c/6167cecfb42c2e6fc05b8d6c_1698823497.webp",
+          "productType": "Vivo",
+          "price": 221
+        }
+      ],
+      "total": 451,
+      "id": 15
+    },
+    {
+      "customerName": "Avicena Muzhaffar Adianshah",
+      "customerEmail": "adianshahavis11@gmail.com",
+      "paymentOption": "Visa",
+      "creditNumber": "8989012981267",
+      "cvv": "2323",
+      "products": [
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        },
+        {
+          "id": "13",
+          "name": "Vivo V29E",
+          "image": "https://media.pricebook.co.id/article/6167cecfb42c2e6fc05b8d6c/6167cecfb42c2e6fc05b8d6c_1698823497.webp",
+          "productType": "Vivo",
+          "price": 221
+        }
+      ],
+      "total": 451,
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userType": "admin",
+      "name": "Venus",
+      "email": "venus@gmail.com",
+      "password": "hkkkk"
+    },
+    {
+      "userType": "user",
+      "name": "Caca",
+      "email": "caca@gmail.com",
+      "password": "hhhh",
+      "id": 1702608940345
+    },
+    {
+      "userType": "user",
+      "name": "Sami",
+      "email": "sami@gmail.com",
+      "password": "hhhh",
+      "id": 1702867763952
+    },
+    {
+      "userType": "user",
+      "name": "Sami",
+      "email": "sami@gmail.com",
+      "password": "hhhh",
+      "id": 1702868018409
+    }
+  ],
+  "wishlist": [
+    {
+      "products": [],
+      "total": 0,
+      "id": 1
+    },
+    {
+      "products": [],
+      "total": 0,
+      "id": 2
+    },
+    {
+      "products": [],
+      "total": 378,
+      "id": 3
+    },
+    {
+      "products": [
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        },
+        {
+          "id": "13",
+          "name": "Vivo V29E",
+          "image": "https://media.pricebook.co.id/article/6167cecfb42c2e6fc05b8d6c/6167cecfb42c2e6fc05b8d6c_1698823497.webp",
+          "productType": "Vivo",
+          "price": 221
+        }
+      ],
+      "total": 0,
+      "id": 4
+    }
+  ]
+}
