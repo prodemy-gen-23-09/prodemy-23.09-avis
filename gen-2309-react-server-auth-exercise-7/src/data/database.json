@@ -1,0 +1,459 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhoneX",
+      "image": "/src/assets/images/iphonex.jpg",
+      "productType": "phones",
+      "price": 220
+    },
+    {
+      "id": 3,
+      "name": "iPhone15",
+      "image": "/src/assets/images/iphone15.jpg",
+      "productType": "phones",
+      "price": 175
+    },
+    {
+      "id": 5,
+      "name": "Oppo A54",
+      "image": "/src/assets/images/reno.jpg",
+      "productType": "phones",
+      "price": 189
+    },
+    {
+      "id": "7",
+      "name": "Iphone 19",
+      "image": "https://www.epic.com.mt/wp-content/uploads/2023/09/iphone-15-Pro-Max.png",
+      "productType": "Apple",
+      "price": 215
+    },
+    {
+      "id": "12",
+      "name": "Iphone 14 ",
+      "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+      "productType": "Apple",
+      "price": 230
+    },
+    {
+      "id": "13",
+      "name": "Vivo V29E",
+      "image": "https://media.pricebook.co.id/article/6167cecfb42c2e6fc05b8d6c/6167cecfb42c2e6fc05b8d6c_1698823497.webp",
+      "productType": "Vivo",
+      "price": 221
+    },
+    {
+      "id": "14",
+      "name": "Huawei Nova 8",
+      "image": "https://media.pricebook.co.id/images/product/L/97878_L_1.jpg",
+      "productType": "Huawei",
+      "price": 275
+    },
+    {
+      "id": "15",
+      "name": "Huawei Mate X3",
+      "image": "https://techwarehouse.co.za/cdn/shop/files/huawei-mate-x3-1.jpg?v=1682613042",
+      "productType": "Huawei",
+      "price": 388
+    }
+  ],
+  "booking": [
+    {
+      "userType": "user",
+      "customerName": "sarah",
+      "customerEmail": "sarah@gmail.com",
+      "paymentOption": "BNICard",
+      "creditNumber": "8783973",
+      "cvv": "3123213",
+      "products": [
+        {
+          "id": 5,
+          "name": "Oppo A54",
+          "image": "/src/assets/images/reno.jpg",
+          "productType": "phones",
+          "price": 189
+        },
+        {
+          "id": 5,
+          "name": "Oppo A54",
+          "image": "/src/assets/images/reno.jpg",
+          "productType": "phones",
+          "price": 189
+        }
+      ],
+      "total": 378,
+      "id": 20
+    },
+    {
+      "userType": "user",
+      "customerName": "Sami",
+      "customerEmail": "sami@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "8783973",
+      "cvv": "213123",
+      "products": [
+        {
+          "id": 3,
+          "name": "iPhone15",
+          "image": "/src/assets/images/iphone15.jpg",
+          "productType": "phones",
+          "price": 175
+        }
+      ],
+      "total": 175,
+      "id": 21
+    },
+    {
+      "userType": "admin",
+      "customerName": "Avicena Muzhaffar",
+      "customerEmail": "Avic@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "983876734",
+      "cvv": "3333",
+      "products": [
+        {
+          "id": 3,
+          "name": "iPhone15",
+          "image": "/src/assets/images/iphone15.jpg",
+          "productType": "phones",
+          "price": 175
+        },
+        {
+          "id": 5,
+          "name": "Oppo A54",
+          "image": "/src/assets/images/reno.jpg",
+          "productType": "phones",
+          "price": 189
+        }
+      ],
+      "total": 364,
+      "id": 22
+    },
+    {
+      "userType": "user",
+      "customerName": "nana",
+      "customerEmail": "nana@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "54325445554",
+      "cvv": "22233",
+      "products": [
+        {
+          "id": 1,
+          "name": "Apple iPhoneX",
+          "image": "/src/assets/images/iphonex.jpg",
+          "productType": "phones",
+          "price": 220
+        },
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        },
+        {
+          "id": "15",
+          "name": "Huawei Mate X3",
+          "image": "https://techwarehouse.co.za/cdn/shop/files/huawei-mate-x3-1.jpg?v=1682613042",
+          "productType": "Huawei"
+        }
+      ],
+      "total": null,
+      "id": 24
+    },
+    {
+      "userType": "user",
+      "customerName": "nana",
+      "customerEmail": "nana@gmail.com",
+      "paymentOption": "BNICard",
+      "creditNumber": "8783973",
+      "cvv": "31231",
+      "products": [
+        {
+          "id": "15",
+          "name": "Huawei Mate X3",
+          "image": "https://techwarehouse.co.za/cdn/shop/files/huawei-mate-x3-1.jpg?v=1682613042",
+          "productType": "Huawei",
+          "price": 388
+        },
+        {
+          "id": "14",
+          "name": "Huawei Nova 8",
+          "image": "https://media.pricebook.co.id/images/product/L/97878_L_1.jpg",
+          "productType": "Huawei",
+          "price": 275
+        },
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        }
+      ],
+      "total": 893,
+      "id": 25
+    },
+    {
+      "userType": "admin",
+      "customerName": "Avicena Muzhaffar",
+      "customerEmail": "Avic@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "8989012981267",
+      "cvv": "2323",
+      "products": [
+        {
+          "id": "15",
+          "name": "Huawei Mate X3",
+          "image": "https://techwarehouse.co.za/cdn/shop/files/huawei-mate-x3-1.jpg?v=1682613042",
+          "productType": "Huawei",
+          "price": 388
+        },
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        }
+      ],
+      "total": 618,
+      "id": 26
+    },
+    {
+      "userType": "user",
+      "customerName": "nana",
+      "customerEmail": "nana@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "983876734",
+      "cvv": "45454",
+      "products": [
+        {
+          "id": "15",
+          "name": "Huawei Mate X3",
+          "image": "https://techwarehouse.co.za/cdn/shop/files/huawei-mate-x3-1.jpg?v=1682613042",
+          "productType": "Huawei",
+          "price": 388
+        },
+        {
+          "id": "12",
+          "name": "Iphone 14 ",
+          "image": "https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg",
+          "productType": "Apple",
+          "price": 230
+        },
+        {
+          "id": 5,
+          "name": "Oppo A54",
+          "image": "/src/assets/images/reno.jpg",
+          "productType": "phones",
+          "price": 189
+        }
+      ],
+      "total": 807,
+      "id": 27
+    },
+    {
+      "userType": "user",
+      "customerName": "Sami",
+      "customerEmail": "sami@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "983876734",
+      "cvv": "34234",
+      "products": [
+        {
+          "id": 5,
+          "name": "Oppo A54",
+          "image": "/src/assets/images/reno.jpg",
+          "productType": "phones",
+          "price": 189
+        },
+        {
+          "id": "15",
+          "name": "Huawei Mate X3",
+          "image": "https://techwarehouse.co.za/cdn/shop/files/huawei-mate-x3-1.jpg?v=1682613042",
+          "productType": "Huawei",
+          "price": 388
+        }
+      ],
+      "total": 577,
+      "id": 28
+    },
+    {
+      "userType": "user",
+      "customerName": "nana",
+      "customerEmail": "nana@gmail.com",
+      "paymentOption": "BNICard",
+      "creditNumber": "3132132",
+      "cvv": "1213",
+      "products": [
+        {
+          "id": "15",
+          "name": "Huawei Mate X3",
+          "image": "https://techwarehouse.co.za/cdn/shop/files/huawei-mate-x3-1.jpg?v=1682613042",
+          "productType": "Huawei",
+          "price": 388
+        },
+        {
+          "id": "15",
+          "name": "Huawei Mate X3",
+          "image": "https://techwarehouse.co.za/cdn/shop/files/huawei-mate-x3-1.jpg?v=1682613042",
+          "productType": "Huawei",
+          "price": 388
+        }
+      ],
+      "total": 776,
+      "id": 29
+    },
+    {
+      "userType": "user",
+      "customerName": "Gary",
+      "customerEmail": "Gary@gmail.com",
+      "paymentOption": "MasterCard",
+      "creditNumber": "893184739824",
+      "cvv": "7677",
+      "products": [
+        {
+          "id": 1,
+          "name": "Apple iPhoneX",
+          "image": "/src/assets/images/iphonex.jpg",
+          "productType": "phones",
+          "price": 220
+        },
+        {
+          "id": 5,
+          "name": "Oppo A54",
+          "image": "/src/assets/images/reno.jpg",
+          "productType": "phones",
+          "price": 189
+        }
+      ],
+      "total": 409,
+      "id": 30
+    },
+    {
+      "userType": "user",
+      "customerName": "Gary",
+      "customerEmail": "Gary@gmail.com",
+      "paymentOption": "BNICard",
+      "creditNumber": "8989012981267",
+      "cvv": "2233",
+      "products": [
+        {
+          "id": 1,
+          "name": "Apple iPhoneX",
+          "image": "/src/assets/images/iphonex.jpg",
+          "productType": "phones",
+          "price": 220
+        },
+        {
+          "id": 5,
+          "name": "Oppo A54",
+          "image": "/src/assets/images/reno.jpg",
+          "productType": "phones",
+          "price": 189
+        },
+        {
+          "id": 3,
+          "name": "iPhone15",
+          "image": "/src/assets/images/iphone15.jpg",
+          "productType": "phones",
+          "price": 175
+        }
+      ],
+      "total": 584,
+      "id": 31
+    }
+  ],
+  "users": [
+    {
+      "userType": "user",
+      "name": "Caca",
+      "email": "caca@gmail.com",
+      "password": "hhhh",
+      "id": 1702608940345
+    },
+    {
+      "userType": "user",
+      "name": "Sami",
+      "email": "sami@gmail.com",
+      "password": "hhhh",
+      "id": 1702867763952
+    },
+    {
+      "userType": "user",
+      "name": "nana",
+      "email": "nana@gmail.com",
+      "password": "hhhh",
+      "id": 1703168076007
+    },
+    {
+      "userType": "user",
+      "name": "sarah",
+      "email": "sarah@gmail.com",
+      "password": "hhhh",
+      "id": 1703173391430
+    },
+    {
+      "userType": "user",
+      "name": "mary",
+      "email": "mary@gmail.com",
+      "password": "hhhh",
+      "id": 1703174681164
+    },
+    {
+      "userType": "admin",
+      "name": "Avicena Muzhaffar",
+      "email": "Avic@gmail.com",
+      "password": "hhhh",
+      "id": 1703179216495
+    },
+    {
+      "userType": "",
+      "name": "nana",
+      "email": "nana@gmail.com",
+      "password": "hhhh",
+      "id": 1703625046995
+    },
+    {
+      "userType": "user",
+      "name": "Gary",
+      "email": "Gary@gmail.com",
+      "password": "hhhh",
+      "id": 1703628298894
+    }
+  ],
+  "wishlist": [
+    {
+      "products": [
+        {
+          "id": 1,
+          "name": "Apple iPhoneX",
+          "image": "/src/assets/images/iphonex.jpg",
+          "productType": "phones",
+          "price": 220
+        },
+        {
+          "id": 5,
+          "name": "Oppo A54",
+          "image": "/src/assets/images/reno.jpg",
+          "productType": "phones",
+          "price": 189
+        }
+      ],
+      "id": 29
+    },
+    {
+      "products": [
+        {
+          "id": 3,
+          "name": "iPhone15",
+          "image": "/src/assets/images/iphone15.jpg",
+          "productType": "phones",
+          "price": 175
+        }
+      ],
+      "id": 30
+    }
+  ]
+}
